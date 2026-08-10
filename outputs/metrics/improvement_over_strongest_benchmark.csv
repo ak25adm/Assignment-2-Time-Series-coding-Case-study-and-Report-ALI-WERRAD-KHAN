@@ -1,0 +1,4 @@
+model,RMSE_pct_improvement,MAE_pct_improvement,sMAPE_pct_improvement,MASE_pct_improvement
+SARIMAX,11.681998,22.569646,31.556043,22.569646
+Chronos,6.984521,29.775908,39.935577,29.775908
+XGBoost,1.345615,1.867243,13.973670,-2.342906
